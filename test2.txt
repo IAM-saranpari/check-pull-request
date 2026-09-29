@@ -1,1 +1,2 @@
 adding text in test2 after raising PR but before merge
+adding content from feature branch
